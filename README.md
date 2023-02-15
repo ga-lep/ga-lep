@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Install](https://github.com/ga-lep/install)
 
-- 🌱 I’m currently learning **Ansible & Kubernetes**
+- 🌱 I’m currently learning **Ansible & Rust**
 
 - ⚡ Fun fact **I own [scam.agency](https://scam.agency/) website**
 
